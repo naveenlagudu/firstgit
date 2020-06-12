@@ -1,1 +1,64 @@
 My name is Naveen
+Today I have learnt git hut and here I am going to share few commands with you all 
+
+After installing the git in the system 
+
+Mac users
+
+
+Step1: open terminal and check the version  "git --version" this command shows you the version of the git installed
+
+If Mac users are unable to download git from git https://git-scm.com/download/mac
+Then go to https://sourceforge.net/projects/git-osx-installer/files/
+
+
+
+Step2: now sign up GitHub and create an account if are new to git hub 
+
+
+Step3:  after creating an account - click on start a project
+             
+        Choose a name for the repo ,choose public and click on read me option love create a repository
+        
+        Click on create reposatory
+    
+Step4; now create a folder name "git" to make things easy
+
+ 
+Step5: open terminal and run these commands 
+   
+        git config --global user.email "yourGitHub@email.com"   -- your email address that you have given while creating a git hub repository
+
+        git config --global user.name "yourGitHubusername"       --- your user name of your GitHub 
+
+Step6; now open the "git" folder on your desktop and create another folder in it lets name "myfolder" 
+
+      Note: We have to create sub folder because we might create many folders related to git and all other can be referred to a single folder git which makes things easy
+
+
+Step7: use command --  cd desktop -- to get into desktop from the terminal 
+     
+       Use command --  ls --- to list all the files in the desktop here you can find the folder git 
+
+       Use command --   cd git -- to get into git folder
+
+       Use command --   ls ---- again to list on the files in the git folder here you can find your folder (myfolder)
+
+       Use command -- cd myfolder -- to get into folder myfolder
+
+      -----NOW THAT WE ARE INTO THE MAIN FOLDER WHERE WE ARE GOING TO CREATE GITHUB -------
+
+
+Step8:    Use command -- git init -- to create a git file in myfolder
+  
+     Note :we can see the created FOLDER in MYFOLDER because it is hidden in Mac
+
+Step9 :to view the folder run the command
+      
+       defaults write com.apple.finder AppleShowAllFiles YES
+
+Step10: now go to desktop click on option button & finder and click on relaunch
+
+
+ -------------------------------------------------------        NOW  YOU CAN SEE A FILE NAMED .git IN YOUR MYFOLDER AND YOUR ARE READY TO GO.    -----------------------------------------------------------
+           
