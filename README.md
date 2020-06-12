@@ -1,3 +1,5 @@
 # firstgit
 my first experience in git
-I think ,I have learnt something new today for all the beginner git comments refer text file 1
+
+refer text1 to install git on mac
+
