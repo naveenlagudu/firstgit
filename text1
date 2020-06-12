@@ -26,6 +26,8 @@ Step4; now create a folder name "git" to make things easy
 
  
 Step5: open terminal and run these commands 
+
+
    
         git config --global user.email "yourGitHub@email.com"   -- your email address that you have given while creating a git hub repository
 
@@ -34,6 +36,7 @@ Step5: open terminal and run these commands
 Step6; now open the "git" folder on your desktop and create another folder in it lets name "myfolder" 
 
       Note: We have to create sub folder because we might create many folders related to git and all other can be referred to a single folder git which makes things easy
+
 
 
 Step7: use command --  cd desktop -- to get into desktop from the terminal 
@@ -61,4 +64,4 @@ Step10: now go to desktop click on option button & finder and click on relaunch
 
 
  -------------------------------------------------------        NOW  YOU CAN SEE A FILE NAMED .git IN YOUR MYFOLDER AND YOUR ARE READY TO GO.    -----------------------------------------------------------
-           
+           Thank you
